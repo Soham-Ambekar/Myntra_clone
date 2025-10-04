@@ -36,5 +36,5 @@ The **Myntra Homepage Clone** aims to mimic the real Myntra website’s visual l
 
 ---
 
-## 📂 Folder Structure
+
 
